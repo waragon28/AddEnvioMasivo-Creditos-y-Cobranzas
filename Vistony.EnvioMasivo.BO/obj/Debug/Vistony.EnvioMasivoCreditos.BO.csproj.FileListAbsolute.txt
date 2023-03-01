@@ -1,0 +1,5 @@
+D:\Desarrollo\AddEnvioMasivo Creditos y Cobranzas\Vistony.EnvioMasivo.BO\bin\Debug\Vistony.EnvioMasivo.BO.dll
+D:\Desarrollo\AddEnvioMasivo Creditos y Cobranzas\Vistony.EnvioMasivo.BO\bin\Debug\Vistony.EnvioMasivo.BO.pdb
+D:\Desarrollo\AddEnvioMasivo Creditos y Cobranzas\Vistony.EnvioMasivo.BO\obj\Debug\Vistony.EnvioMasivoCreditos.BO.csprojResolveAssemblyReference.cache
+D:\Desarrollo\AddEnvioMasivo Creditos y Cobranzas\Vistony.EnvioMasivo.BO\obj\Debug\Vistony.EnvioMasivo.BO.dll
+D:\Desarrollo\AddEnvioMasivo Creditos y Cobranzas\Vistony.EnvioMasivo.BO\obj\Debug\Vistony.EnvioMasivo.BO.pdb

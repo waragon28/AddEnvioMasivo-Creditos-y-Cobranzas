@@ -1,0 +1,7 @@
+<Application>
+  <Menus>
+    <action type="add">
+      <Menu Checked="0" Enabled="1" FatherUID="43537" Image="" String="Asistente de envio Masivo SMS" Type="1" UniqueID="vis_EnvioMasivoCRE"/>
+    </action>
+  </Menus>
+</Application>
